@@ -19,4 +19,4 @@ Building and testing software.
 Making content about IT. Helping beginners find their path in tech.
 Community founder.
 
-`t.me/egorcod` · `@egorcod`
+`t.me/egorcod` · `@egorcodd`
