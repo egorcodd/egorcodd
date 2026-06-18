@@ -5,7 +5,6 @@ const egor = match('@egorcod')
   .with('@egorcod', () => ({
     location: 'Saint Petersburg · 2026-06-18',
     role:     'AQA Engineer & Developer',
-    company:  'Haiku',
     language: 'TypeScript',
     content:  ['t.me/egorcod', '@egorcod'],
   }))
