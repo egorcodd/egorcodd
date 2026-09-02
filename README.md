@@ -3,7 +3,7 @@ import { match } from 'ts-pattern'
 
 const egor = match('@egorcod')
   .with('@egorcod', () => ({
-    location: 'Saint Petersburg · 2026-09-01',
+    location: 'Saint Petersburg · 2026-09-02',
     role:     'AQA Engineer & Developer',
     language: 'TypeScript',
     content:  ['t.me/egorcod', '@egorcod'],
